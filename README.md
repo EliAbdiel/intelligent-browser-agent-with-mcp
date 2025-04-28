@@ -2,6 +2,8 @@
 
 An interactive application built with **Streamlit** and the **MCP-Agent** framework to control a real browser using **Puppeteer**. You can send natural commands for the agent to navigate, interact with websites, take screenshots, and summarize content using a language model (LLM) like Gemini, OpenAI, or Azure OpenAI.
 
+![Alt Browser-Agent-with-MCP](img/Browser-Agent-with-MCP-04-27-2025_02_10_AM.png)
+
 ---
 
 ## 🚀 Features
