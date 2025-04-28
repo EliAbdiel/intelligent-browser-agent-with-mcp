@@ -1,0 +1,13 @@
+streamlit
+chainlit
+azure-identity
+azure-ai-inference
+openai
+openai-agents
+google-genai
+google-generativeai
+python-dotenv
+pydantic
+semantic-kernel
+mcp-agent
+asyncio
