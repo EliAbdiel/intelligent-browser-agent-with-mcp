@@ -111,7 +111,7 @@ Take a screenshot of the section
 
 ## 📄 License
 
-MIT License © ELI
+This project is licensed under the MIT License - free to use, modify, and distribute.
 
 ---
 
