@@ -165,7 +165,7 @@ async def setup_agent():
             await st.session_state.browser_agent.initialize()
 
             # Use the custom LLM
-            st.session_state.llm = await st.session_state.browser_agent.attach_llm(GoogleAugmentedLLM)
+            st.session_state.llm = await st.session_state.browser_agent.attach_llm(AzureAugmentedLLM)
 
             logger = st.session_state.mcp_agent_app.logger
             tools = await st.session_state.browser_agent.list_tools()
